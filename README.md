@@ -9,7 +9,7 @@
 ```
 Google Drive
 DropBox
-(Something more secure and/or anonymous)s
+(Something more secure and/or anonymous)
 ```
 
 ## Brainstorming

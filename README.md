@@ -14,6 +14,7 @@ DropBox
 
 ## Brainstorming
 - Documentation outlining file structure for common storage (what would metadata include? time/date/city/coordinates?)
+- Information on enhancing privacy for mobile devices (removing personal information from videos, loaction settings, etc) 
 
 
 ## FAIR Data Principles
